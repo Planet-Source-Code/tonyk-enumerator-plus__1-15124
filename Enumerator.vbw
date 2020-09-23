@@ -1,0 +1,15 @@
+frmMain = 22, 22, 437, 393, Z, 22, 22, 432, 393, C
+modPWL = 66, 66, 573, 372, 
+modGetDisplay = 154, 154, 551, 525, 
+modGetIEVer = 66, 66, 481, 437, 
+modGetIP = 22, 22, 529, 328, 
+modGetMAC = 154, 154, 551, 525, 
+modGetWinVer = 110, 110, 525, 481, 
+modRegistry = 22, 22, 419, 393, 
+modStartEnd = 88, 88, 503, 459, 
+modGetUser = 44, 44, 459, 415, 
+modGetPCName = 110, 110, 525, 481, 
+frmAbout = 154, 154, 569, 525, , 132, 132, 547, 503, C
+modSysResource = 132, 132, 529, 503, 
+modRegInfo = 66, 66, 463, 437, 
+modProxy = 110, 110, 507, 481, 
